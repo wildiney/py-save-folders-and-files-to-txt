@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirCSV]
+@="Exportar diretorio para CSV"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirCSV\command]
+@="D:\\REPOSITORIOS\\ListDir\\dist\\export-to-csv.exe"

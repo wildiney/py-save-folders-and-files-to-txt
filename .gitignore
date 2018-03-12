@@ -1,0 +1,7 @@
+__pycache__
+build
+classes/__pycache__
+export-to-txt.spec
+export-to-csv.spec
+arquivos-neste-diretorio.csv
+arquivos-neste-diretorio.txt

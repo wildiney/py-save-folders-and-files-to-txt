@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirTXT]
+@="Exportar diretorio para TXT"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirTXT\command]
+@="D:\\REPOSITORIOS\\ListDir\\dist\\export-to-txt.exe"
