@@ -1,5 +1,5 @@
 # FILE/DIRS TO TEXT
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SRWLKCPSZGQTJ)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SRWLKCPSZGQTJ)
 
 LIST FILES AND FOLDERS INSIDE THE DIR AND WRITE THE FILENAMES IN A FILE TXT OR CSV 
 
