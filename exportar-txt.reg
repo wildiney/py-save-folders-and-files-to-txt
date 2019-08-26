@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Exportar diretorio para TXT"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirTXT\command]
-@="D:\\REPOSITORIOS\\ListDir\\dist\\export-to-txt.exe"
+@="C:\\INDRA\\Repositories\\save-folders-and-files-to-txt\\dist\\export-to-txt.exe"

@@ -4,4 +4,4 @@ Windows Registry Editor Version 5.00
 @="Exportar diretorio para CSV"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\ListDirCSV\command]
-@="D:\\REPOSITORIOS\\ListDir\\dist\\export-to-csv.exe"
+@="C:\\INDRA\\Repositories\\save-folders-and-files-to-txt\\dist\\export-to-csv.exe"
